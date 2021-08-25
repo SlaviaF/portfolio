@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8aef9c45.chunk.css",
-    "main.js": "/portfolio/static/js/main.e645e0f7.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.e645e0f7.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.4be39f05.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.4be39f05.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.1c8344b7.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.1c8344b7.js.map",
     "static/css/2.9a5322c9.chunk.css": "/portfolio/static/css/2.9a5322c9.chunk.css",
@@ -17,7 +17,7 @@
     "static/media/App.css": "/portfolio/static/media/bg8.7e061c73.jpg",
     "static/media/giphy.e9b26109.png": "/portfolio/static/media/giphy.e9b26109.png",
     "static/media/github_user.6b8e7f98.png": "/portfolio/static/media/github_user.6b8e7f98.png",
-    "static/media/meal_sharing.5f315d27.png": "/portfolio/static/media/meal_sharing.5f315d27.png",
+    "static/media/meal_sharing_app.3ad768b5.png": "/portfolio/static/media/meal_sharing_app.3ad768b5.png",
     "static/media/weather_app.5708fe7d.png": "/portfolio/static/media/weather_app.5708fe7d.png"
   },
   "entrypoints": [
@@ -25,6 +25,6 @@
     "static/css/2.9a5322c9.chunk.css",
     "static/js/2.c3b8976d.chunk.js",
     "static/css/main.8aef9c45.chunk.css",
-    "static/js/main.e645e0f7.chunk.js"
+    "static/js/main.4be39f05.chunk.js"
   ]
 }
