@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SlaviaF/portfolio/static/css/main.69b6ca95.chunk.css",
+    "main.css": "/SlaviaF/portfolio/static/css/main.20dcecc9.chunk.css",
     "main.js": "/SlaviaF/portfolio/static/js/main.8ddb40e2.chunk.js",
     "main.js.map": "/SlaviaF/portfolio/static/js/main.8ddb40e2.chunk.js.map",
     "runtime-main.js": "/SlaviaF/portfolio/static/js/runtime-main.66c5e4a5.js",
@@ -12,7 +12,7 @@
     "static/js/3.03b57c04.chunk.js.map": "/SlaviaF/portfolio/static/js/3.03b57c04.chunk.js.map",
     "index.html": "/SlaviaF/portfolio/index.html",
     "static/css/2.9a5322c9.chunk.css.map": "/SlaviaF/portfolio/static/css/2.9a5322c9.chunk.css.map",
-    "static/css/main.69b6ca95.chunk.css.map": "/SlaviaF/portfolio/static/css/main.69b6ca95.chunk.css.map",
+    "static/css/main.20dcecc9.chunk.css.map": "/SlaviaF/portfolio/static/css/main.20dcecc9.chunk.css.map",
     "static/js/2.c3b8976d.chunk.js.LICENSE.txt": "/SlaviaF/portfolio/static/js/2.c3b8976d.chunk.js.LICENSE.txt",
     "static/media/App.css": "/SlaviaF/portfolio/static/media/bg8.7e061c73.jpg",
     "static/media/giphy.e9b26109.png": "/SlaviaF/portfolio/static/media/giphy.e9b26109.png",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.66c5e4a5.js",
     "static/css/2.9a5322c9.chunk.css",
     "static/js/2.c3b8976d.chunk.js",
-    "static/css/main.69b6ca95.chunk.css",
+    "static/css/main.20dcecc9.chunk.css",
     "static/js/main.8ddb40e2.chunk.js"
   ]
 }
